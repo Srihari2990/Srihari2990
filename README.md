@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srihari Gutthi
+- 👋 Hi, I’m @Srihari
 - 👀 I’m interested in designing and developing applications using Java, Spring Boot and  MERN Stack Technologies and exploring cloud services.
 - 🌱 I’m currently learning in-depth Software Engineering and optimizing backend performance with AWS.
 - 💞️ I’m looking to collaborate on innovative full-stack projects that involve real-time data processing and cloud integration.
